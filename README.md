@@ -1,9 +1,13 @@
 # DMD3Esp8266
 
 Library untuk Led Matrix p10 atau p4.75(p7,52) single color, base dari library DMD3 untuk atmega328.
-MCU menngunkan Esp8266-12x atau ESP12x.
-silahkan tungg tanggal tayang nya ya bos..
+
+Menggunakan MCU Esp8266-12x atau ESP12x.
+
+Silahkan tunggu tanggal tayang nya ya bos..
+
 Atau yg butuh buru2 bisa wa aja langsung ke 0896-7874-7575.
+
 tersedia bebrapa paket library, paket fullfor5, paket fullSplit paket hemat-2, paket hemat-1, dan paket watonmurup.
 
 paket waton murup library standar tanpa example.
