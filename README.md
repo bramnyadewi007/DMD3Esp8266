@@ -12,5 +12,6 @@ paket hemat-2 berisi library standar dengan satu example untuk menampilkan text 
 paket fullSplit berisi lemua diatas dengan tambahan satu example untuk split marquee text.
 paket fullfor5  berisis semua diatas dengan tambahan sehingga cukup hanya menggunakan 5 pin saja untuk koneksi ke panel p4.75(p7.52).
 
-visit my webblog -->  arduino.soreang.blogspot.com
+visit my webblog -->  https://www.arduino.soreang.blogspot.com
+
 yt channel -->https://www.youtube.com/channel/UCFo2Wd-V7mcFyDqxeJqCahA
